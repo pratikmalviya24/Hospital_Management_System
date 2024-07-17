@@ -55,7 +55,23 @@ Add the following dependencies to your `pom.xml` file:
     </dependency>
 </dependencies>
 ```
+
 ## For Latest Dependency visit below link:
 ```
 https://mvnrepository.com/
+```
+## File Structure
+```
+hospital-management-system/
+│
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │         ├──java file
+│   │   └── webapp/
+│   │       ├── META-INF/
+│   │       ├── WEB-INF/
+│   │       └── index.jsp
+├── pom.xml
+└── README.md
 ```
